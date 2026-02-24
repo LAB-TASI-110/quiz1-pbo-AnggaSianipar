@@ -1,0 +1,28 @@
+chat gpt
+prompt 1
+jadi saya ingin membuat sistem yang dapat mendukung operasional sehari hari laundry it del 
+tolong berikan saya saran yang baik dan relevan untuk mahasiswa dan pihak laundrynya
+
+prompt2
+tolong bantu saya membbuat kode program bahasa java 
+dimana pihak laundry akan mengecek beerat laudry per mahasiswa tersebut 
+dimana jika lebih dari 7 kg laundry tersebut tidak akan di proses 
+tetapi jika memenuhi laundry tersebut akan di proses 
+lalu untuk pihak mahasiswa 
+mahasiswa akan mengetahui apakah laundrynya sudah selesai di eksekusi atau tidak dengan sistem menampilkan "laundry anda sudah selesai dan siap di antarkan" sehingga mahsiswa dapat mengatur jadwal untuk pengambilan laundrynya 
+
+lalu terdapat juga laporan berapa mahasiswa yang menggunakan laundry 
+
+jadi outputnya adalah 
+menampilkan apakah memenuhi atau tidak 
+lalu kondisi laundrynya 
+lalu total mahasiswa yang menggunakan launrynya (ini berdasarkan banyak inputnya)
+
+lalu tampilan awalnya adalah 
+Selamat datang di launrdy del 
+siap melayani anda
+lalu tampilkan stok laundy misal 
+Detergen : Ready
+Pewangi : Ready
+Plastik : Ready
+lalu langsung ke input berat laundry pertama tetapi di akhir END untuk mengetahui inputan itu berakhir
