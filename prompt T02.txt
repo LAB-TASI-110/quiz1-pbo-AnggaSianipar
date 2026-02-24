@@ -1,0 +1,27 @@
+Chat GPT
+Prompt 1
+saya ingin anda membantu saya dalam mengerjakan program bahasa java 
+dimana study case nya adalah 
+membuat program yang dapat menentukan total nilai hanya untuk kelompok yang diminta.
+
+dimana user atau saya harus menginput:
+1. Jumlah total data (N). 
+2. Deret nilai (n1, n2, …, n). 
+3. Kode kelompok siswa
+
+jadi saya harus mengimput total siswa atau datanya 
+lalu nilianya dan kode siswanya
+lalu program akan mengelompokkan mereka 
+dan ketika saya meminta untuk menjumlahkan total nilai dari sebuah kelompok 
+total nya akan keluar 
+
+program yang saya ingin adalah menggunakan array 
+
+lalu gunakan template ini 
+public class Driver2 {
+    
+}
+
+Prompt 2
+jika kode kelompoknya tidak ada 
+tolong tampilkan outputnya kode kelompok tersebut tidak ada

@@ -1,0 +1,66 @@
+Gemini
+saya ingin anda membantu saya dalam membuat kode probram bahasa java dalam mata kuliah pemograman berbasis objek 
+
+di mana studi kasusnya adalah esebagian berikut 
+terdapat dua orang yaitu lklk dan pr merekan ingin makan di sebuah warung 
+dimana perbandingan pesanan merekan adalah 2:1 
+contohnya jika perempuan pesan satu pesanan maka lakiklaki akan memesan dengan jumlah yang berbeda tetapi jenis makanannya sama 
+terdapat beberapa jenis makan yaitu 
+Nasi goreng spesial (NGS)(15)
+Ayam penyet(AP) 25k 
+Sate ayama (SA) 25k
+Bakso Urat (BU) 18k
+Mie Ayam pangsitnit(MAP) 15k
+Gado-gado(GG) 15k
+Soto Ayam (SAM) 17kk
+Rendang daging(RD) 25
+Ikan Bakar(IB)35
+Nai uduk komplite(NUK)20
+
+dengan siingkatan di atas
+inputan pertama yang di terimna oleh sistem adalah pesanan si pr karena pesanannya 1/2 pesanan si lklk
+
+terdapat diskon yaitu 100 k diskon 5%
+200k diskon 10%
+300k diskon 15%
+400k diskon 20%
+500k diskon 25%
+
+outputnya adalah gambar berikut  
+
+Chat GPT
+saya ingin anda membantu saya dalam membuat kode probram bahasa java dalam mata kuliah pemograman berbasis objek 
+
+di mana studi kasusnya adalah esebagian berikut 
+terdapat dua orang yaitu lklk dan pr merekan ingin makan di sebuah warung 
+dimana perbandingan pesanan merekan adalah 2:1 
+contohnya jika perempuan pesan satu pesanan maka lakiklaki akan memesan dengan jumlah yang berbeda tetapi jenis makanannya sama 
+terdapat beberapa jenis makan yaitu 
+Nasi goreng spesial (NGS)(15)
+Ayam penyet(AP) 25k 
+Sate ayama (SA) 25k
+Bakso Urat (BU) 18k
+Mie Ayam pangsitnit(MAP) 15k
+Gado-gado(GG) 15k
+Soto Ayam (SAM) 17kk
+Rendang daging(RD) 25
+Ikan Bakar(IB)35
+Nai uduk komplite(NUK)20
+
+dengan siingkatan di atas
+inputan pertama yang di terimna oleh sistem adalah pesanan si pr karena pesanannya 1/2 pesanan si lklk
+
+terdapat diskon yaitu 100 k diskon 5%
+200k diskon 10%
+300k diskon 15%
+400k diskon 20%
+500k diskon 25%
+
+outputnya adalah gambar berikut  
+
+prompt 2
+public class Driver1 {
+    
+}
+
+tolong gunakan template di atas
